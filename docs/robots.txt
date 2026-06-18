@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://buoitruaanhangxom763-arch.github.io/public-brand-guides/sitemap.xml
